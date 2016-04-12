@@ -1,11 +1,12 @@
 // lv1.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+#include "stdio.h"
 
 
-int _tmain(int argc, _TCHAR* argv[])
+int main(int argc)
 {
+	printf("Pozdrav iz aplikacije od Andreja Agatiæa");
 	return 0;
 }
 
